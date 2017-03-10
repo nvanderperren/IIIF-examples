@@ -1,0 +1,106 @@
+{
+	"@context": "http://iiif.io/presentation/2/context.json",
+	"@id": "http://free.iiifhosting.com/iiif/3bd08e57bc1b1b164f6b3914f852b5b33fdbae1c9d0cf75fda843577debc0558/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Willekeurig manifest", 
+	"description": "Dit is een voorbeeldmanifest opgesteld in het kader van het beeldenhubproject",
+	"metadata": [
+		{
+			"label": "Maker",
+			"value": "Bibi De Vliegher"
+		},
+		{
+		    "label": "Creatieplaats",
+		    "value": "Ergens in Europa"
+		}
+	],
+	"thumbnail": {
+		"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/full/80,100/0/default.jpg",
+		"service": {
+			"@context": "https://iiif.io/api/image/2/context.json",
+			"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d",
+			"profile": "http://iiif.io/api.image/2/level1.json"
+		}
+	},
+
+	"viewingDirection": "top-to-bottom",
+	"viewingHint": "continuous",
+	"navDate": "2016-01-01T00:00:00Z",
+
+	"license": "http://www.creativecommons.org/licenses/by/4.0/",
+	"attribution": "Bibi De Vliegher",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Packed_vzw.png",
+
+	"related": {
+		"@id": "https://ia902304.us.archive.org/30/items/popeye_taxi-turvey/popeye_taxi-turvey_512kb.mp4",
+		"format": "video/mp4"
+	},
+	"seeAlso": {
+		"@id": "https://archive.org/download/popeye_taxi-turvey/popeye_taxi-turvey_meta.xml",
+		"format": "text/xml"
+	},
+	
+
+	"sequences": [
+		{
+			"@type": "sc:Sequence",
+
+			"startCanvas": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
+
+			"canvases": [
+				{
+					"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/canvas/foto1",
+					"@type": "sc:Canvas",
+					"label": "foto 1",
+					"width": 640,
+					"height": 960,
+					"images": [
+						{
+							"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/annotation/res1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/canvas/foto1",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								}
+							}
+						}
+						]
+						},
+						
+				
+				{
+					"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
+					"@type": "sc:Canvas",
+					"label": "foto 2",
+					"width": 640,
+					"height": 960,
+					"images": [
+						{
+							"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/annotation/res2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
