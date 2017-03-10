@@ -23,8 +23,8 @@
 		}
 	},
 
-	"viewingDirection": "top-to-bottom",
-	"viewingHint": "continuous",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
 	"navDate": "2016-01-01T00:00:00Z",
 
 	"license": "http://www.creativecommons.org/licenses/by/4.0/",
@@ -71,10 +71,8 @@
 								}
 							}
 						}
-						]
-						},
-						
-				
+          ]
+        },
 				{
 					"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
 					"@type": "sc:Canvas",
