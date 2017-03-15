@@ -71,8 +71,10 @@
 								}
 							}
 						}
-          ]
-        },
+						]
+						},
+						
+				
 				{
 					"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
 					"@type": "sc:Canvas",

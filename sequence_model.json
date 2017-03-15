@@ -1,0 +1,37 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "{scheme}://{host}/{servernaam}/{id}/sequence/{sequentienaam}.json",
+	"@type": "sc:Sequence",
+	"label": "sequentienaam",
+	"canvasses": [
+		{
+			"@id": "{scheme}://{host}/{servermap}/{id}/canvas/{canvasnaam}.json",
+			"@type": "sc:Canvas",
+			"height": 0,
+			"width": 0,
+			"images": [
+				{
+					@"id": "{scheme}://{host}/{servermap}/{id}/annotation/{bestands-id}",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "{scheme}://{host}/{servermap}/{id}/canvas/{canvasnaam}.json",
+					"resource": {
+						"@id": "IIIF URI naar afbeelding",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/cntext.json",
+							"@id": "{scheme}://{host}/{servernaam}/{id}",
+							"profile": "http://iiif.io/api/image/2/profiles/level2.json (kies het geschikte profiel)"
+						},
+						"height": 0,
+						"width": 0
+					}
+				}
+						//vul aan met andere images indien nodig
+			]
+			//vul aan met andere canvasses indien nodig
+		}
+	]
+}
+
