@@ -23,8 +23,8 @@
 		}
 	},
 
-	"viewingDirection": "top-to-bottom",
-	"viewingHint": "continuous",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
 	"navDate": "2016-01-01T00:00:00Z",
 
 	"license": "http://www.creativecommons.org/licenses/by/4.0/",
@@ -52,8 +52,8 @@
 					"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/canvas/foto1",
 					"@type": "sc:Canvas",
 					"label": "foto 1",
-					"width": 640,
-					"height": 960,
+					"width": 960,
+					"height": 640,
 					"images": [
 						{
 							"@id": "http://free.iiifhosting.com/iiif/d772d45d796e58b68ed46f696d97f4819e5e84fdd252847afe4b0cc84793a88d/annotation/res1",
@@ -79,8 +79,8 @@
 					"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/canvas/foto2",
 					"@type": "sc:Canvas",
 					"label": "foto 2",
-					"width": 640,
-					"height": 960,
+					"width": 960,
+					"height": 640,
 					"images": [
 						{
 							"@id": "http://free.iiifhosting.com/iiif/628fddde894ab28f9024390ae38b3059c31b4a6c7bf83c25a846c302e49e888a/annotation/res2",
