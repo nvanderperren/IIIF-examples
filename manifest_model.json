@@ -1,0 +1,122 @@
+{
+	// Metadata over het manifest file
+	// MUST: @id, @type
+	// MUST: @context moet altijd vanboven staan wanneer een service, zoals de presentation API, aangeroepen wordt
+	"@context": "http://iiif.io/presentation/2/context.json",
+	"@id": "{scheme}://{host}/{servermap}/{id}/manifest.json",
+	"@type": "sc:Manifest",
+
+	// Beschrijvende metadata over het object
+	// MUST: label / SHOULD: metadata, description, thumbnail
+	"label": "titel van het manifest", 
+	"description": "beschrijving van het intellectuele inhoud van het manifest",
+	"metadata": [
+		{
+			"label": "naam van de metadata",
+			"value": "waarde van de metadata"
+		}
+	],
+	"thumbnail": {
+		"@id": "{scheme}://{host}/{servermap}/{id}/full/80,100/0/default.jpg",
+		"service": {
+			// de thumbnail is via de IIIF Image API opgeroepen, er moet dus een service met context zjn.
+			"@context": "https://iiif.io/api/image/2/context.json",
+			"@id": "{scheme}://{host}/{servermap}/{id}",
+			"profile": "http://iiif.io/api.image/2/level1.json"
+		}
+	},
+
+	// Presentatie informatie (optioneel)
+	"viewingDirection": "keuze uit: right-to-left, left-to-right, top-to-bottom of bottom-to-top",
+	"viewingHint": "keuze uit individuals, paged, continuous, multi-part, non-paged, top of facing-pages",
+	"navDate": "1856-01-01T00:00:00Z",
+
+	// Rechtenmetadata (optioneel)
+	"license": "http://www.creativecommons.org/licenses/by/4.0/",
+	"attribution": "credit line hier",
+	"logo": "URL naar je afbeelding (eventueel kan hier ook de image API voor gebruikt worden --> zie thumbnail)",
+
+	// Verwante info (optioneel)
+	"related": {
+		"@id": "link naar een verwant item, bv. een video",
+		"format": "het webformaat, voor de video is dit dan video/mpeg"
+	},
+	"service": {
+		"@context": "http://example.org/ns/jsonld/context.json",
+		"@id": "http://example.org/service/example",
+		"profile": "http://example.org/docs/example-service.html"
+	},
+	"seeAlso": {
+		"@id": "http://example.org/metadata/artwork.xml",
+		"format": "text/xml",
+		"profile": "http://example.org/profiles/bibliographic"
+	},
+	"rendering": {
+		"@id": "http://example.org/iiif/artwork.pdf",
+		"label": "Download als pdf",
+		"format": "application/pdf"
+	},
+	"within": "http://example.org/collections/artworks",
+
+	// Lijst van sequenties	
+	// MUST voor een manifest
+	"sequences": [
+		// MUST: @type, canvasses, @id vanaf de tweede sequentie
+		{
+			"@id": "{scheme}://{host}/{servernaam}/{id}/sequence/{sequentienaam}",
+			"@type": "sc:Sequence",
+			"label": "naam van sequentie",
+
+			//evt. kan hier ook een viewingDirection, viewingHint (zie supra) en startCanvas ingesteld worden
+			"startCanvas": "{scheme}://{host}/{servernaam}/{id}/canvas/{canvasnaam}",
+
+			//volgorde van canvassen wordt ingesteld
+			"canvases": [
+				{
+					// MUST @id, @type, label, height, width
+					// SHOULD dereferenceable id's
+					"@id": "{scheme}/{servermap}/{id}/canvas/{canvasnaam}",
+					"@type": "sc:Canvas",
+					"label": "naam van het canvas",
+					"width": 0,
+					"height": 0,
+					"images": [
+						{
+							// MUST (annotation) @type
+							// SHOULD (annotation) @id (dereferenceable)
+							"@id": "{scheme}://{host}/{servermap}/{id}/annotation/{bestands-id}",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "{scheme}://{host}/{servermap}/{id}/canvas/{canvasnaam}",
+							"resource": {
+								// MUST @id, @type, id is dereferenceable
+								"@id": "IIIF URI naar de afbeelding --> {scheme}/{servermap}/{id}/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "{scheme}://{host}/{servernaam}/{id}",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"height": 0,
+								"width": 0
+							}
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "{scheme}://{host}/{servernaam}/{id}/list/{canvasnaam}",
+							"@type": "sc:AnnotationList",
+							"within": {
+								"@id": "http://example.org/iiif/{id}/layer/{layernaam}",
+								"@type": "sc:Layer",
+								"label": "voorbeeldlayer"
+							}
+						}
+					]
+
+				}
+			]
+		}
+	]
+}
