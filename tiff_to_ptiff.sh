@@ -2,7 +2,7 @@
 #
 # Author: nvanderperren
 #
-# Tiff to Pyramid tiff converter. Script places the converted files to
+# Tiff to Pyramid tiff converter. Script places the converted files in
 # the /var/www folder.
 #
 # Execute as root. Give absolute paths to folders with tiff-files as argument.
