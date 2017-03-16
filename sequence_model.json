@@ -11,7 +11,7 @@
 			"width": 0,
 			"images": [
 				{
-					@"id": "{scheme}://{host}/{servermap}/{id}/annotation/{bestands-id}",
+					"@id": "{scheme}://{host}/{servermap}/{id}/annotation/{bestands-id}",
 					"@type": "oa:Annotation",
 					"motivation": "sc:painting",
 					"on": "{scheme}://{host}/{servermap}/{id}/canvas/{canvasnaam}.json",
