@@ -4,7 +4,7 @@
   "attribution":"KMSKA",
   "label":"INVnr.3, Rembrandt van Rijn, De Nachtwacht",
   "logo":"http://www.kmska.be/static/site_images/lgo_kmska.gif",
-  "@type":"sc:Manifest"
+  "@type":"sc:Manifest",
   "license":"https://creativecommons.org/publicdomain/zero/1.0/",
   "seeAlso":"http://www.example.org/PACKED/work/3",
   "sequences":
