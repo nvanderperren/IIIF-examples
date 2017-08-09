@@ -1,5 +1,5 @@
 {
-  "@context":"http://iiif.io/presentation/2/context.json",
+  "@context":"http://iiif.io/api/presentation/2/context.json",
   "@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/manifest.json",
   "attribution":"KMSKA",
   "label":"INVnr.3, Rembrandt van Rijn, De Nachtwacht",
