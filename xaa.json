@@ -1,5 +1,5 @@
 {
-  "@context":"http://iiif.io/presentation/2/context.json",
+  "@context":"http://iiif.io/api/presentation/2/context.json",
   "@id":"http://free.iiifhosting.com/iiif/83a236ed3b0359ac5dddd2bcb53aa55c2d03f86f48004197e165f030703b7456/manifest.json",
   "label":"INVnr.1, Frans Hals, Luitspelende nar",
   "logo":"http://www.kmska.be/static/site_images/lgo_kmska.gif",
