@@ -1,1 +1,47 @@
-{"license":"https://creativecommons.org/publicdomain/zero/1.0/","@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/manifest.json","seeAlso":"http://www.example.org/PACKED/work/3","sequences":[{"@type":"sc:Sequence","canvases":[{"@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/canvas.json","images":[{"on":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/canvas.json","motivation":"sc:painting","@type":"oa:Annotation","resource":{"@type":"dctypes:Image","@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/full/full/0/default.jpg","width":14168,"service":{"profile":"http://iiif.io/api/image/2/profiles/level1.json","@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70","@context":"http://iiif.io/api.image/2/context.json"},"format":"image/jpeg","height":11528}}],"@type":"sc:Canvas","label":"voorkant","width":14168,"height":11528}]}],"attribution":"KMSKA","label":"INVnr.3, Rembrandt van Rijn, De Nachtwacht","logo":"http://www.kmska.be/static/site_images/lgo_kmska.gif","@context":"http://iiif.io/presentation/2/context.json","@type":"sc:Manifest"}
+{
+  "@context":"http://iiif.io/presentation/2/context.json",
+  "@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/manifest.json",
+  "attribution":"KMSKA",
+  "label":"INVnr.3, Rembrandt van Rijn, De Nachtwacht",
+  "logo":"http://www.kmska.be/static/site_images/lgo_kmska.gif",
+  "@type":"sc:Manifest"
+  "license":"https://creativecommons.org/publicdomain/zero/1.0/",
+  "seeAlso":"http://www.example.org/PACKED/work/3",
+  "sequences":
+  [
+    {
+      "@type":"sc:Sequence",
+      "canvases":
+      [
+        {
+          "@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/canvas.json",
+          "images":
+          [
+            {"on":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/canvas.json",
+             "motivation":"sc:painting",
+             "@type":"oa:Annotation",
+             "resource":
+             {
+               "@type":"dctypes:Image",
+               "@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70/full/full/0/default.jpg",
+               "width":14168,
+               "service":
+               {
+                 "profile":"http://iiif.io/api/image/2/profiles/level1.json",
+                 "@id":"http://free.iiifhosting.com/iiif/d4ec08ab012f941c5958b4be302e581d67913ffd1b7b62c51aff667c3ff7fa70",
+                 "@context":"http://iiif.io/api.image/2/context.json"
+               },
+               "format":"image/jpeg",
+               "height":11528
+             }
+            }
+          ],
+          "@type":"sc:Canvas",
+          "label":"voorkant",
+          "width":14168,
+          "height":11528
+        }
+      ]
+    }
+  ]
+}
