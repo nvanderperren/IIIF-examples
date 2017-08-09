@@ -1,5 +1,5 @@
 {
-	"@context": "http://iiif.io/presentation/2/context.json",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://free.iiifhosting.com/iiif/3bd08e57bc1b1b164f6b3914f852b5b33fdbae1c9d0cf75fda843577debc0558/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Willekeurig manifest", 
