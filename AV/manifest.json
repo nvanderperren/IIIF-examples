@@ -3,35 +3,34 @@
     "id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
     "type": "Manifest",
     "label": "De nimf Salmacis en Hermaphroditus dansen!",
-    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. En ze dansen!",
+    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. En er wordt gedanst!",
     "sequences": [{
         "type": "Sequence",
         "id": "https://nvanderperren.github.io/IIIF-examples/AV/sequence",
         "canvases": [{
-            "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
+            "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
             "type": "Canvas",
-            "label": "100000022",
-            "height": 5000,
-            "width": 3470,
-            "duration": 208,
+            "height": 2500,
+            "width": 1735,
+            "duration": 300,
             "content": [{
-                "@context": "http://iiif.io/api/presentation/2/context.json",
-                "@type": "oa:Annotation",
-                "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json/image",
-                "motivation": "sc:painting",
-                "resource": {
-                    "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                        "@context": "http://iiif.io/api/image/2/context.json",
-                        "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022",
-                        "profile": "http://iiif.io/api/image/2/level2.json"
+                "id": "https://nvanderperren.github.io/IIIF-examples/AV/annotationPage",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno1",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                        "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/full/pct:50/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "height": 2500,
+                        "width": 1735,
+                        "duration": 300
                     },
-                    "height": 5000,
-                    "width": 3470
-                },
-                "on": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json"
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,1735,2500&t=0,300"
+
+                }]
             }]
         }]
     }]
