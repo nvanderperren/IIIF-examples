@@ -1,20 +1,20 @@
 {
-    "context": "http://iiif.io/api/presentation/2/context.json",
-    "type": "Manifest",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
+    "type": "Manifest",
     "label": "De nimf Salmacis en Hermaphroditus dansen!",
-    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. De nimf Salmacis werd verliefd op Hermaphroditus, de zoon van Hermes en Aphrodite. Hermaphroditus wees haar af, maar Salmacis verschalkte hem in het water. Nog wou hij niets van haar weten en dan smeekte Salmacis de goden om haar voor eeuwig met hem te verenigen. Beiden versmolten tot een hermafrodiet, een tweeslachtig wezen met zowel mannelijke als vrouwelijke kenmerken.François-Joseph Navez schilderde hen net voor de metamorfose. Het terughoudende gebaar van Hermaphroditus en de passionele omarming van de verliefde nimf vormen een ingenieus en elegant ballet in een vrijwel geabstraheerd lijnenspel. Mythologische taferelen waren eerder een uitzondering in het werk van Navez. Zijn verblijf in Rome inspireerde hem zijn hele loopbaan veeleer tot religieuze onderwerpen en pittoreske Italiaanse taferelen. Ook met zijn klassieke portretten oogstte hij veel succes.",
+    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. En ze dansen!",
     "sequences": [{
-        "@type": "sc:Sequence",
-        "@context": "http://iiif.io/api/presentation/2/context.json",
-        "startCanvas": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
+        "type": "Sequence",
+        "id": "https://nvanderperren.github.io/IIIF-examples/AV/sequence",
         "canvases": [{
-            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
-            "@type": "sc:Canvas",
+            "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
+            "type": "Canvas",
             "label": "100000022",
             "height": 5000,
             "width": 3470,
-            "images": [{
+            "duration": 208,
+            "content": [{
                 "@context": "http://iiif.io/api/presentation/2/context.json",
                 "@type": "oa:Annotation",
                 "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json/image",
