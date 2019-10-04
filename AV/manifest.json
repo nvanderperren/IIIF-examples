@@ -12,25 +12,41 @@
             "type": "Canvas",
             "height": 920,
             "width": 640,
-            "duration": 300,
+            "duration": 246,
             "content": [{
                 "id": "https://nvanderperren.github.io/IIIF-examples/AV/annotationPage",
                 "type": "AnnotationPage",
                 "items": [{
-                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno1",
-                    "type": "Annotation",
-                    "motivation": "Painting",
-                    "body": {
-                        "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:20/0/default.jpg",
-                        "type": "Image",
-                        "format": "image/jpeg",
-                        "height": 920,
-                        "width": 640,
-                        "duration": 300
-                    },
-                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,300"
+                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno1",
+                        "type": "Annotation",
+                        "motivation": "Painting",
+                        "body": {
+                            "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:20/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 920,
+                            "width": 640,
+                            "duration": 246
+                        },
+                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,246"
 
-                }]
+                    },
+                    {
+                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno2",
+                        "type": "Annotation",
+                        "motivation": "Painting",
+                        "body": {
+                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song.mp3",
+                            "type": "Audio",
+                            "format": "audio/mp3",
+                            "height": "",
+                            "width": "",
+                            "duration": 246
+                        },
+                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,246"
+
+                    }
+                ]
             }]
         }]
     }]
