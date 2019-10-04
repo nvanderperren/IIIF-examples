@@ -28,7 +28,7 @@
                         "width": 640,
                         "duration": 300
                     },
-                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,1735,2500&t=0,300"
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,300"
 
                 }]
             }]
