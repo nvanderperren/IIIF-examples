@@ -51,7 +51,7 @@
                         "type": "Annotation",
                         "motivation": "Painting",
                         "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/rowan.gif",
+                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
                             "type": "Image",
                             "format": "image/gif",
                             "height": 280,
@@ -66,7 +66,7 @@
                         "type": "Annotation",
                         "motivation": "Painting",
                         "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/rowan.gif",
+                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
                             "type": "Image",
                             "format": "image/gif",
                             "height": 280,
@@ -81,7 +81,7 @@
                         "type": "Annotation",
                         "motivation": "Painting",
                         "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/rowan.gif",
+                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
                             "type": "Image",
                             "format": "image/gif",
                             "height": 280,
@@ -96,7 +96,7 @@
                         "type": "Annotation",
                         "motivation": "Painting",
                         "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/rowan.gif",
+                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
                             "type": "Image",
                             "format": "image/gif",
                             "height": 280,
