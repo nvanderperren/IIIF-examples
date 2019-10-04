@@ -10,7 +10,7 @@
         "canvases": [{
             "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
             "type": "Canvas",
-            "height": 2500,
+            "height": 2300,
             "width": 1735,
             "duration": 300,
             "content": [{
@@ -21,10 +21,10 @@
                     "type": "Annotation",
                     "motivation": "Painting",
                     "body": {
-                        "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/full/pct:50/0/default.jpg",
+                        "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:50/0/default.jpg",
                         "type": "Image",
                         "format": "image/jpeg",
-                        "height": 2500,
+                        "height": 2300,
                         "width": 1735,
                         "duration": 300
                     },
