@@ -1,0 +1,2012 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/collection/top",
+    "@type": "sc:Collection",
+    "label": "Top Level Collection for Imagehub",
+    "viewingHint": "top",
+    "description": "This collection lists all the IIIF manifests available in this Imagehub instance",
+    "manifests": [
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1983_GRO0020_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Aanbidding van het Jezuskind"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Adoration of the Christ-Child"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1983_GRO0019_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Annunciatie"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Annunciation"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1983_GRO0019_I-0020_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Annunciatie en de aanbidding van het Jezuskind"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Annunciation and the Adoration of the Chris-Child"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0191_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Schipbreuk"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Shipwreck"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1979_GRO0006_Ib/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van aartshertogin Isabella"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of the Archduchess Isabella"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1976_GRO0815_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Otho Stochoven"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1992_GRO0031_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bewening"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Lamentation"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0796_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kruisafneming"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Descent from the Cross"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1232_II-1233_II/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Secret-Reflet (Geheim-Weerspiegeling)"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1989_GRO0038_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Triptiek"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Triptych"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0010_II/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De schoonmaakster"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Charwoman"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1996_GRO0032_XXXI/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Des écliptiques, un soleil de notre galaxie avec deux de ses planètes (Zonnebanen, een zon van onze melkweg met twee van haar planeten)"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1997_GRO0018_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Laurent Van de Velde"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:2152/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Harmonicaspeler"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:2351/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Monseigneur Gerasimos Messara, metropoliet van Beiroet"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:2658/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De schilder Jean Auguste Dominique Ingres"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:3039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De laatste dag"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:3313/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Buste van Nel Wouters"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:2693/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Buste van Nel Wouters"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:3135/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De verschijning"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:2179/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vissersvrouw"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:3012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Ever"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1574/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Zelfportret"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:437/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Visboer"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1082/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Veen in de Kempen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1085/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De kus"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1259/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kapitein Van de Woestijne"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Adam en Eva vinden het lijk van Abel"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1293/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Brooduitdeling in het dorp"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:126/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bloemen in een vaas"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:379/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De gilde van de Jonge Voetboog ontvangt burgemeester en hoofdman Jan Karel de Cordes"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:1181/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De gebroeders De Witt in gevangenschap"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:5060/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Het kaartspel"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:782/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Schildersatelier"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:718/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Het strand bij Scheveningen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:961/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Faunen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:343/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Storm op zee"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:832/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De kindermoord in Betlehem"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:947/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Toren van Babel"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:677/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Zoals de ouden zongen, piepen de jongen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:642/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kaartspelers en brassers"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:188/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vissersjongen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:709/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Venus frigida"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:410/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Heilige Barbara van Nicomedië"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:249/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Heilige Johannes"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:248/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Heilige Johannes in de olie"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:246/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Onthoofding van Johannes de Doper"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:245/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bewening van Christus"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:245-249/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Altaarstuk van het schrijnwerkerambacht"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:42/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Adam en Eva"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:395/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Priesterwijding, huwelijk en laatste oliesel"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:394/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Doopsel, vormsel en biecht"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:393/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Christus aan het kruis en de Eucharistie"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:393-395/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De Zeven Sacramenten"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kruisafneming"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:259/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Christus aan het kruis, \"De lanssteek\""
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:258/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Annunciatie"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:257/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Annunciatie"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:257-260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Orsini Polyptiek"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1975_GRO0005_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Uw wereld in mijn tuin"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Your World in my Garden"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1327_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Hooioogst te Jabbeke"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1623_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De Bediening"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:2010_GRO0004_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van mevrouw Giroux"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of Mrs. Giroux"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1985_GRO0033_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De verliefden in het dorp"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Lovers in the village"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1594_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kermis in Watermaal"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Fair at Watermaal"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1631_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "L'attentat"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0026_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Scheldemonding"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Mouth of the River Scheldt"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0046_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Oude vrouw met haar katten"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Old woman with her cats"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0159_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Sylvie de la Rue"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0735_II/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De Heilig Bloedkapel en het Steen in Brugge"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Holy Blood chapel and the Steen in Bruges"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1456_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Eed van de kleermakers"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Oath of the Taylors"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1356_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Het vieruurtje"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Afternoon Tea"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0249_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kaart van Brugge en de waterwegen"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Map of Bruges and the Waterways"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0127_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Stilleven met bloemen"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Still Life with Flowers"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0235_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kaart van Brugge en de feodale gronden"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Map of Bruges and the feudal Grounds"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0497_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De anatomische les"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Anatomy Lesson"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0108_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Jan van Eyewerve"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0109_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Jacquemyne Buuck"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of Jacquemyne Buuck"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0108_I-0109_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portretten van Jan van Eyewerve en Jacquemyne Buuck"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO1280_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Paulus de Nigro"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0438_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kaart van het Brugse Vrije"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Map of the Liberty of Bruges"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0040_I-0041_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Oordeel van Cambyses"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Judgement of Cambyses"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0091_I-0095_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Moreel-triptiek"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0208_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Laatste Oordeel"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Last Judgement"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0204_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Dood van Maria"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Death of the Virgin"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0161_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Madonna met kanunnik Joris van der Paele"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:0000_GRO0162_I/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Margareta van Eyck"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1988-B/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van dokter Ludwig Adler"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of the Physician Ludwig Adler"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1934-U/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Zittende vrouw bij het venster of Portret van Nel Duerinckx, de vrouw van de kunstenaar"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Seated Woman at the Window or Portrait of Nel Deurinckx, the Artist’s Wife"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1999-M/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vegetatie"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Vegetation"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1999-Q/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Boeren"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Peasants"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1909-PPP-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kop van Pierre de Wissant"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2003-AZ/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Quelques images de la vie d'un artiste"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1979-J/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Baadsters"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Women Bathing"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1991-M/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Fuga"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Fugue"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1912-E/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Ondergaande zon"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Sunset"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-BM/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Meisjes in het veld"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Girls in the Field"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1938-M/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vrouwenprofiel en korenschoven"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Profile of a Woman and Wheatsheaves"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1910-R/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van een oude pastoor"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of an Old Priest"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:S-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Christus en de overspelige vrouw"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Christ and the Adulteress"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1998-B-67-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Mijn portret met doodshoofd"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "My Portrait as a Skeleton"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/groeningemuseum.be:1981_GRO0001_XI/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Drie heilige vrouwen bij het graf"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Three holy Women by the Tomb"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vechtende mannen"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Men Fighting"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-Z/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Weiland in Vlaanderen"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Pastureland in Flanders"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1979-C/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van Marguerite Van Mons"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Zelfportret (studie)"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Self-Portrait (sketch"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1957-W-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Mijn kamer in Delft"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "My Room in Delft"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1957-W-10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Keizer van Java"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Emperor of Java"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1957-W-9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Grote Indische triptiek"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Large Indian Triptych"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1908-F/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van een kleptomaan"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of a Kleptomaniac"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-DH/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bruin paard"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Brown Horse"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1974-F/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "The Kill (Het doden van het hert)"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Kill"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1975-A/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "The Meet (Samenkomst voor de jacht)"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Meet"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1988-M/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Erminia en de schaapherders (naar Torquato Tasso)"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Erminia and the Shepherds (after Torquato Tasso"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1994-F-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Verheerlijking van Minerva"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Glorification of Minerva"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1994-F-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Verheerlijking van Venus"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Glorification of Venus"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1994-F-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Verheerlijking van Apollo"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Glorification of Apollo"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1994-F-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Verheerlijking van Mars"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Glorification of Mars"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-DE/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vanitas, ca. 1620-1630"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Vanity Piece, ca. 1620-1630"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-II/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De verheerlijking van de heilige Oswald"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Exaltation of Saint Oswald"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-DF/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kopstudie van een jonge Moor"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Study of the Head of a Young Moor"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1903-H/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Leden van het Vleeshouwersgilde in Gent"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Members of the Butchers’ Guild in Ghent"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1896-A/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van een man"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of a Man"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:957/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bezoek van Minerva aan de Muzen"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-CB/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van een man"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of a Man"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1903-L/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De marteling van de heilige Sebastiaan"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Martyrdom of St Sebastian"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:S-54/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Het Laatste Oordeel"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Last Judgement"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1881-B/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De rampen van het mensdom"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Calamities of Humanity"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-IN/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De keukenmeid"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Kitchen Maid"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1904-D/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De bewening van Christus"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Lamentation of Christ"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-CL/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portret van de humanist Giovanni Paolo Cornaro"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1908-H/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De heilige Hiëronymus"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1906-B/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De familie van de heilige Anna"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Family of Saint Anne"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1903-A/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De kroning van Maria"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Coronation of the Virgin"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1957-AD-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Omne: fragment uit Het Laatste Avondmaal, een verdwenennmuurschildering op de zuidelijke muur van de refter vannhet dominicaner klooster, Gent"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Omne: fragment from The Last Supper, a lost mural painting on the southern wall of the Refectory of the Dominican Monastery, Ghent"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1957-AD-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Vobiceum: fragment uit Het Laatste Avondmaal, een verdwenennmuurschildering op de zuidelijke muur van de refter van het dominicaner klooster, Gent"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Vobiceum: fragment from The Last Supper, a lost mural painting on the southern wall of the Refectory of the Dominican Monastery, Ghent"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1958-K/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Christuskop: fragment uit Het Laatste Avondmaal, een verdwenen muurschildering op de zuidelijke muur van de refter van het dominicaner klooster, Gent"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Christ’s Head: fragment from The Last Supper, a lost mural painting on the southern wall of the Refectory of the Dominican Monastery, Ghent"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2005-A/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Ugolino en zijn zonen"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Ugolino and his Sons"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-DN/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Maria met Kind"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Virgin and Child"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:S-98/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portretten van Filips de Goede en Isabella van Portugal"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of Philip the Fair and Isabella of Portugal"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:S-97/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Portretten van Jan zonder Vrees en Margaretha van Beieren"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Portrait of John the Fearless and Margaretha of Bavaria"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1914-IC/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Trompe-l'oeil: brievenbord met dansmeesterviool en pistool"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Trompe-l’œil: Letter Rack with a Kit and Pistol"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De nimf Salmacis en Hermaphroditus"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Nymph Salmacis and Hermaphrodite"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1909-HHH/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Einde van een sombere dag, 1907"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "End of a Gloomy Day, 1907"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1981-G/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Kreupelbos in Sint-Martens-Latem"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Coppice at Sint-Martens-Latem"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": " De Koning stiet een vervaarlijken kreet van wanhoop en woede"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Eindelijk begon Belijn te roepen."
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Reinaert keerde zich toen tot Cuwaert en Belijn"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Op den stond deed de Koning Bruin en Isegrim vangen en binden"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Reinaerts vader verhing zich aan eenen boom"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Toen kreeg hij smaak in het bloed"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Genadige Heer, De Macht is in uwe hand, zegde Reinaert"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Reinaert wordt nog beschuldigd door Canteclaer"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bruin de Beer beklaagt zich bij den koning en Tybaert de Kater wordt nu met de boodschap belast"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bruin springt in de rivier"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Reinaert brengt Bruin, waar honig vinden moest, maar heel iets anders krijgt"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Bruin de Beer gaat Reinaert dagvaarden en wordt heel vriendelijk onthaald"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1998-B-115/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De baden in Oostende"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "The Baths at Ostend"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1998-B-112/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "De wraak van Hop-Frog"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Hop-Frog's Revenge"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:525bis/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Eva"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:525/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Gerbrich Claesdr."
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:523/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Madonna"
+                }
+            ]
+        },
+        {
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/kmska.be:524/manifest.json",
+            "@type": "sc:Manifest",
+            "label": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Pompeius Occo"
+                }
+            ]
+        }
+    ]
+}

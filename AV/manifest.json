@@ -11,7 +11,7 @@
             "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
             "type": "Canvas",
             "height": 920,
-            "width": 640,
+            "width": 920,
             "duration": 256,
             "content": [{
                 "id": "https://nvanderperren.github.io/IIIF-examples/AV/annotationPage",
