@@ -2,154 +2,37 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
     "@id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
-    "label": [
-        {
-            "@language": "nl-BE",
-            "@value": "De nimf Salmacis en Hermaphroditus"
-        },
-        {
-            "@language": "en-GB",
-            "@value": "The Nymph Salmacis and Hermaphrodite"
-        }
-    ],
-    "attribution": [
-        {
-            "@language": "nl-BE",
-            "@value": "Museum voor Schone Kunsten Gent"
-        },
-        {
-            "@language": "en-GB",
-            "@value": "Museum of Fine Arts Ghent"
-        }
-    ],
-    "related": "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1829-A",
-    "description": [
-        {
-            "@language": "nl-BE",
-            "@value": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. De nimf Salmacis werd verliefd op Hermaphroditus, de zoon van Hermes en Aphrodite. Hermaphroditus wees haar af, maar Salmacis verschalkte hem in het water. Nog wou hij niets van haar weten en dan smeekte Salmacis de goden om haar voor eeuwig met hem te verenigen. Beiden versmolten tot een hermafrodiet, een tweeslachtig wezen met zowel mannelijke als vrouwelijke kenmerken.François-Joseph Navez schilderde hen net voor de metamorfose. Het terughoudende gebaar van Hermaphroditus en de passionele omarming van de verliefde nimf vormen een ingenieus en elegant ballet in een vrijwel geabstraheerd lijnenspel. Mythologische taferelen waren eerder een uitzondering in het werk van Navez. Zijn verblijf in Rome inspireerde hem zijn hele loopbaan veeleer tot religieuze onderwerpen en pittoreske Italiaanse taferelen. Ook met zijn klassieke portretten oogstte hij veel succes."
-        },
-        {
-            "@language": "en-GB",
-            "@value": "The story of Salmacis and Hermaphroditus comes from Ovid's Metamorphoses. The nymph Salmacis fell in love Hermaphroditus, the son of Hermes and Aphrodite. Hermaphroditus rejected her, but Salmacis outwitted him in the water. Still, he wanted to know nothing about her, and then Salmacis begged the gods to unite her with him forever. Both fused into a hermaphrodite, an androgynous being with both male and female kenmerken.François Joseph Navez them just painted for the metamorphosis. Coy gesture Hermaphroditus and the passionate embrace of the lovelorn nymph form an ingenious and elegant ballet in an almost abstracted lines. Mythological scenes were rather an exception in the work of Navez. His stay in Rome inspired him throughout his career rather to religious subjects and picturesque Italian scenes. With his classic portraits, he was very successful."
-        }
-    ],
-    "metadata": [
-        {
-            "label": "Title",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "De nimf Salmacis en Hermaphroditus"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "The Nymph Salmacis and Hermaphrodite"
-                }
-            ]
-        },
-        {
-            "label": "Artist",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "Navez, François-Joseph"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "Navez, François-Joseph"
-                }
-            ]
-        },
-        {
-            "label": "Date",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "1829"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "1829"
-                }
-            ]
-        },
-        {
-            "label": "EarliestDate",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "1829"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "1829"
-                }
-            ]
-        },
-        {
-            "label": "LatestDate",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "1829"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "1829"
-                }
-            ]
-        },
-        {
-            "label": "Credit Line",
-            "value": [
-                {
-                    "@language": "nl-BE",
-                    "@value": "Museum voor Schone Kunsten Gent"
-                },
-                {
-                    "@language": "en-GB",
-                    "@value": "Museum of Fine Arts Ghent"
-                }
-            ]
-        }
-    ],
-    "viewingDirection": "left-to-right",
-    "viewingHint": "individuals",
-    "sequences": [
-        {
-            "@type": "sc:Sequence",
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "startCanvas": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
-            "canvases": [
-                {
-                    "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
-                    "@type": "sc:Canvas",
-                    "label": "100000022",
+    "label": "De nimf Salmacis en Hermaphroditus dansen!",
+    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. De nimf Salmacis werd verliefd op Hermaphroditus, de zoon van Hermes en Aphrodite. Hermaphroditus wees haar af, maar Salmacis verschalkte hem in het water. Nog wou hij niets van haar weten en dan smeekte Salmacis de goden om haar voor eeuwig met hem te verenigen. Beiden versmolten tot een hermafrodiet, een tweeslachtig wezen met zowel mannelijke als vrouwelijke kenmerken.François-Joseph Navez schilderde hen net voor de metamorfose. Het terughoudende gebaar van Hermaphroditus en de passionele omarming van de verliefde nimf vormen een ingenieus en elegant ballet in een vrijwel geabstraheerd lijnenspel. Mythologische taferelen waren eerder een uitzondering in het werk van Navez. Zijn verblijf in Rome inspireerde hem zijn hele loopbaan veeleer tot religieuze onderwerpen en pittoreske Italiaanse taferelen. Ook met zijn klassieke portretten oogstte hij veel succes.",
+    "sequences": [{
+        "@type": "sc:Sequence",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "startCanvas": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
+        "canvases": [{
+            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json",
+            "@type": "sc:Canvas",
+            "label": "100000022",
+            "height": 5000,
+            "width": 3470,
+            "images": [{
+                "@context": "http://iiif.io/api/presentation/2/context.json",
+                "@type": "oa:Annotation",
+                "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json/image",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022",
+                        "profile": "http://iiif.io/api/image/2/level2.json"
+                    },
                     "height": 5000,
-                    "width": 3470,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@type": "oa:Annotation",
-                            "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json/image",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                },
-                                "height": 5000,
-                                "width": 3470
-                            },
-                            "on": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+                    "width": 3470
+                },
+                "on": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1829-A/canvas/1.json"
+            }]
+        }]
+    }]
 }
