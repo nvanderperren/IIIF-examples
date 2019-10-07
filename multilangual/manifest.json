@@ -11,6 +11,7 @@
             "@value": "The Nymph Salmacis and Hermaphrodite"
         }
     ],
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
     "attribution": [{
             "@language": "nl",
             "@value": "Museum voor Schone Kunsten Gent"
@@ -78,6 +79,7 @@
             "value": "1829"
         }
     ],
+    "logo": "https://nvanderperren.github.io/IIIF-examples/multilangual/MSK-logo.png",
     "viewingDirection": "left-to-right",
     "viewingHint": "individuals",
     "sequences": [{
