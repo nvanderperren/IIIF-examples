@@ -113,7 +113,7 @@
                     "type": "TextualBody",
                     "format": "text/plain"
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=490,290,100,100&t=2,4"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=290,490,100,100&t=2,4"
                 }
               ]
             }
