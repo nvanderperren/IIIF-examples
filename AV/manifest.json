@@ -1,125 +1,125 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
-    "type": "Manifest",
-    "label": "De nimf Salmacis en Hermaphroditus dansen!",
-    "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. En er wordt gedanst!",
-    "sequences": [{
-        "type": "Sequence",
-        "id": "https://nvanderperren.github.io/IIIF-examples/AV/sequence",
-        "canvases": [{
-            "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
-            "type": "Canvas",
-            "height": 920,
-            "width": 920,
-            "duration": 256,
-            "content": [{
-                "id": "https://nvanderperren.github.io/IIIF-examples/AV/annotationPage",
-                "type": "AnnotationPage",
-                "items": [{
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno1",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:20/0/default.jpg",
-                            "type": "Image",
-                            "format": "image/jpeg",
-                            "height": 920,
-                            "width": 640,
-                            "duration": 300
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,256"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno2",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song.mp3",
-                            "type": "Audio",
-                            "format": "audio/mp3",
-                            "height": "",
-                            "width": "",
-                            "duration": 246
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=10,256"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno3",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
-                            "type": "Image",
-                            "format": "image/gif",
-                            "height": 280,
-                            "width": 210,
-                            "duration": 10
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,0,210,280&t=12,16"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno4",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
-                            "type": "Image",
-                            "format": "image/gif",
-                            "height": 280,
-                            "width": 210,
-                            "duration": 10
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,210,280&t=10,14"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno5",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
-                            "type": "Image",
-                            "format": "image/gif",
-                            "height": 280,
-                            "width": 210,
-                            "duration": 10
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,640,210,280&t=14,18"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno6",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
-                            "type": "Image",
-                            "format": "image/gif",
-                            "height": 280,
-                            "width": 210,
-                            "duration": 10
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,640,210,280&t=16,20"
-
-                    },
-                    {
-                        "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
-                        "type": "Annotation",
-                        "motivation": "Painting",
-                        "body": {
-                            "value": "<h1>Liefje! Waarom kijk je toch zo intens?</h1>",
-                            "type": "TextualBody",
-                            "format": "text/plain"
-                        },
-                        "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=490,290,1000,100&t=2,4"
-
-                    }
-                ]
-            }]
-        }]
-    }]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
+  "type": "Manifest",
+  "label": "De nimf Salmacis en Hermaphroditus dansen!",
+  "description": "Het verhaal van Salmacis en Hermaphroditus komt uit de Metamorfosen van Ovidius. En er wordt gedanst!",
+  "sequences": [
+    {
+      "type": "Sequence",
+      "id": "https://nvanderperren.github.io/IIIF-examples/AV/sequence",
+      "canvases": [
+        {
+          "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
+          "type": "Canvas",
+          "height": 920,
+          "width": 920,
+          "duration": 256,
+          "content": [
+            {
+              "id": "https://nvanderperren.github.io/IIIF-examples/AV/annotationPage",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno1",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:20/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 920,
+                    "width": 640,
+                    "duration": 300
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,256"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno2",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song.mp3",
+                    "type": "Audio",
+                    "format": "audio/mp3",
+                    "height": "",
+                    "width": "",
+                    "duration": 246
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=10,256"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno3",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
+                    "type": "Image",
+                    "format": "image/gif",
+                    "height": 280,
+                    "width": 210,
+                    "duration": 10
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,0,210,280&t=12,16"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno4",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
+                    "type": "Image",
+                    "format": "image/gif",
+                    "height": 280,
+                    "width": 210,
+                    "duration": 10
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,210,280&t=10,14"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno5",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
+                    "type": "Image",
+                    "format": "image/gif",
+                    "height": 280,
+                    "width": 210,
+                    "duration": 10
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,640,210,280&t=14,18"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno6",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/rowan.gif",
+                    "type": "Image",
+                    "format": "image/gif",
+                    "height": 280,
+                    "width": 210,
+                    "duration": 10
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,640,210,280&t=16,20"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "value": "<h3>Liefje! Waarom kijk je toch zo intens?</h3>",
+                    "type": "TextualBody",
+                    "format": "text/plain"
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=490,290,100,100&t=2,4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
