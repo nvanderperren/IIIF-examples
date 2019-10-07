@@ -109,23 +109,45 @@
                   "type": "Annotation",
                   "motivation": "Painting",
                   "body": {
-                    "value": "<h3><span color='red'>Liefje!</span> Waarom kijk je toch zo intens?</h3>",
+                    "value": "<h3>Liefje! Waarom kijk je toch zo intens?</h3>",
                     "type": "TextualBody",
                     "format": "text/plain"
                   },
                   "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=2,4"
                 },
                 {
-                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno8",
-                    "type": "Annotation",
-                    "motivation": "Painting",
-                    "body": {
-                      "value": "<h3>Ik wil dansen! <span color='red'><strong>DANSEN!</strong></span></h3>",
-                      "type": "TextualBody",
-                      "format": "text/plain"
-                    },
-                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=4,6"
-                  }
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno8",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "value": "<h3>Ik wil dansen!</h3>",
+                    "type": "TextualBody",
+                    "format": "text/plain"
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=4,6"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno9",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "value": "<h3>DANSEN!</h3>",
+                    "type": "TextualBody",
+                    "format": "text/plain"
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=7,8"
+                },
+                {
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
+                  "type": "Annotation",
+                  "motivation": "Painting",
+                  "body": {
+                    "value": "<h3>Let the music start!</h3>",
+                    "type": "TextualBody",
+                    "format": "text/plain"
+                  },
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=8,10"
+                }
               ]
             }
           ]
