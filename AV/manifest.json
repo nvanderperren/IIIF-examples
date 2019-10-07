@@ -202,6 +202,20 @@
                       "format": "text/plain"
                     },
                     "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=27,28"
+                  },
+                  {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno15",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/video.mp4",
+                      "type": "Video",
+                      "format": "video/mp4",
+                      "height": 1080,
+                      "width": 1920,
+                      "duration": 106
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=431,772,480,270&t=30,256"
                   }
               ]
             }
