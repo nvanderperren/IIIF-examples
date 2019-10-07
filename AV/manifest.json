@@ -211,11 +211,11 @@
                       "id": "https://nvanderperren.github.io/IIIF-examples/AV/images/video.mp4",
                       "type": "Video",
                       "format": "video/mp4",
-                      "height": 1080,
-                      "width": 1920,
+                      "height": 270,
+                      "width": 480,
                       "duration": 106
                     },
-                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=431,772,480,270&t=30,256"
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=280,672,480,270&t=30,256"
                   }
               ]
             }
