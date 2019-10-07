@@ -60,7 +60,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,0,210,280&t=12,16"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,0,210,280&t=22,26"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno4",
@@ -74,7 +74,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,210,280&t=10,14"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,210,280&t=20,24"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno5",
@@ -88,7 +88,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,761,210,280&t=14,18"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,761,210,280&t=24,28"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno6",
@@ -102,7 +102,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,761,210,280&t=16,20"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,761,210,280&t=26,30"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
@@ -138,7 +138,7 @@
                   "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=7,8"
                 },
                 {
-                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
+                  "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno10",
                   "type": "Annotation",
                   "motivation": "Painting",
                   "body": {
@@ -147,7 +147,62 @@
                     "format": "text/plain"
                   },
                   "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=8,10"
-                }
+                },
+                {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno11",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "value": "<h3>DANSEN!</h3>",
+                      "type": "TextualBody",
+                      "format": "text/plain"
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=17,18"
+                  },
+                  {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno12",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "value": "<h3>DANSEN!</h3>",
+                      "type": "TextualBody",
+                      "format": "text/plain"
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=23,24"
+                  },
+                  {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno13",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "value": "<h3>DANSEN!</h3>",
+                      "type": "TextualBody",
+                      "format": "text/plain"
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=700,100,100,100&t=30,31"
+                  },
+                  {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno14",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "value": "<h3>Let the beast go!</h3>",
+                      "type": "TextualBody",
+                      "format": "text/plain"
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=20,21"
+                  },
+                  {
+                    "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno15",
+                    "type": "Annotation",
+                    "motivation": "Painting",
+                    "body": {
+                      "value": "<h3>Let the beast go!</h3>",
+                      "type": "TextualBody",
+                      "format": "text/plain"
+                    },
+                    "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=230,20,100,100&t=27,28"
+                  }
               ]
             }
           ]
