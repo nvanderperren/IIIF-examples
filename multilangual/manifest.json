@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://nvanderperren.github.io/IIIF-examples/AV/manifest.json",
+    "@id": "https://nvanderperren.github.io/IIIF-examples/multilangual/manifest.json",
     "label": [{
             "@language": "nl",
             "@value": "De nimf Salmacis en Hermaphroditus"
