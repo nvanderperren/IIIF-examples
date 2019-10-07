@@ -12,8 +12,8 @@
         {
           "id": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1",
           "type": "Canvas",
-          "height": 920,
-          "width": 920,
+          "height": 1042,
+          "width": 1041,
           "duration": 256,
           "content": [
             {
@@ -28,11 +28,11 @@
                     "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/0,0,3470,4600/pct:20/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "height": 920,
-                    "width": 640,
+                    "height": 1042,
+                    "width": 1041,
                     "duration": 300
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,640,920&t=0,256"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,0,1041,1042&t=0,256"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno2",
@@ -60,7 +60,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,0,210,280&t=12,16"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,0,210,280&t=12,16"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno4",
@@ -88,7 +88,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,640,210,280&t=14,18"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=0,761,210,280&t=14,18"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno6",
@@ -102,7 +102,7 @@
                     "width": 210,
                     "duration": 10
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=430,640,210,280&t=16,20"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=832,761,210,280&t=16,20"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno7",
@@ -113,7 +113,7 @@
                     "type": "TextualBody",
                     "format": "text/plain"
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=290,490,100,100&t=2,4"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=490,290,100,100&t=2,4"
                 }
               ]
             }
