@@ -25,7 +25,7 @@
                   "type": "Annotation",
                   "motivation": "Painting",
                   "body": {
-                    "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/square/pct:30/0/default.jpg",
+                    "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/square/pct:30/!0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1042,
@@ -215,7 +215,7 @@
                     "width": 480,
                     "duration": 106
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=280,672,480,270&t=30,136"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=280,402,480,270&t=30,136"
                 },
                 {
                   "id": "https://nvanderperren.github.io/IIIF-examples/AV/anno17",
@@ -307,7 +307,7 @@
                     "width": 480,
                     "duration": 106
                   },
-                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=280,402,480,270&t=136,242"
+                  "target": "https://nvanderperren.github.io/IIIF-examples/AV/canvas/c1#xywh=280,672,480,270&t=136,242"
                 }
               ]
             }
