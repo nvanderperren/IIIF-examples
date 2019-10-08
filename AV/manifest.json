@@ -25,7 +25,7 @@
                   "type": "Annotation",
                   "motivation": "Painting",
                   "body": {
-                    "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/square/pct:30/!0/default.jpg",
+                    "id": "http://imagehub.vlaamsekunstcollectie.be/iiif/2/100000022/square/pct:30/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 1042,
