@@ -1,0 +1,162 @@
+{
+  "@context": [
+    "http://digirati.com/ns/timeliner",
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://nvanderperren.github.io/IIIF-examples/AV/timeliner.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Mundian to Bach Ke"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Zalig lied!"
+    ]
+  },
+  "items": [
+    {
+      "id": "http://digirati.com/iiif/v3/temporary/canvas/c1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Untitled Item"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://digirati.com/iiif/v3/temporary/list/c1-ap",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://digirati.com/iiif/v3/temporary/annot/c1-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  "Untitled audio"
+                ]
+              },
+              "body": {
+                "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song.mp3",
+                "type": "Audio",
+                "duration": 245.67741
+              },
+              "target": "http://digirati.com/iiif/v3/temporary/canvas/c"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "id-1570780746314",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Rest lied"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=56.48636535433071,245.677",
+          "type": "Canvas"
+        }
+      ],
+      "tl:backgroundColour": "#A63993"
+    },
+    {
+      "id": "id-1570781147174",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Variatie A"
+        ]
+      },
+      "summary": {
+        "en": [
+          "een eerste variatie"
+        ]
+      },
+      "items": [
+        {
+          "id": "id-0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Intro"
+            ]
+          },
+          "summary": {
+            "en": [
+              "Muzikale intro"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=0,20.945623",
+              "type": "Canvas"
+            }
+          ],
+          "tl:backgroundColour": "#7ed321"
+        },
+        {
+          "id": "id-1570780639052",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Refrein"
+            ]
+          },
+          "summary": {
+            "en": [
+              "Dit is het refrein"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=36.536281,56.48636535433071",
+              "type": "Canvas"
+            }
+          ],
+          "tl:backgroundColour": "#A63993"
+        },
+        {
+          "id": "id-1570780600182",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Strofe"
+            ]
+          },
+          "summary": {
+            "en": [
+              "Dit is de eerste strofe"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=20.945623,36.536281",
+              "type": "Canvas"
+            }
+          ],
+          "tl:backgroundColour": "#4a90e2"
+        }
+      ],
+      "tl:backgroundColour": "#9b9bff"
+    }
+  ],
+  "tl:settings": {
+    "tl:backgroundColour": "#fff",
+    "tl:bubblesStyle": "rounded",
+    "tl:blackAndWhite": false,
+    "tl:showTimes": false,
+    "tl:autoScaleHeightOnResize": false,
+    "tl:startPlayingWhenBubbleIsClicked": false,
+    "tl:stopPlayingAtTheEndOfSection": false,
+    "tl:bubbleHeight": 55
+  }
+}
