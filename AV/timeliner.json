@@ -4,16 +4,16 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://nvanderperren.github.io/IIIF-examples/AV/timeliner.json",
+  "id": "http://digirati.com/iiif/v3/temporary/manifest",
   "type": "Manifest",
   "label": {
     "en": [
-      "Mundian to Bach Ke"
+      "Trololo"
     ]
   },
   "summary": {
     "en": [
-      "Zalig liedje!"
+      "Party like it's 1999"
     ]
   },
   "items": [
@@ -42,7 +42,7 @@
               "body": {
                 "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song2.mp3",
                 "type": "Audio",
-                "duration": 241.67741
+                "duration": 221.436194
               },
               "target": "http://digirati.com/iiif/v3/temporary/canvas/c"
             }
@@ -53,37 +53,86 @@
   ],
   "structures": [
     {
-      "id": "id-1570780746314",
+      "id": "id-1571000715167",
       "type": "Range",
       "label": {
         "en": [
-          "Rest lied"
+          ""
         ]
       },
       "items": [
         {
-          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=56.48636535433071,241.677",
+          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=74.052062,221.436194",
           "type": "Canvas"
         }
       ],
-      "tl:backgroundColour": "#A63993"
+      "tl:backgroundColour": "#8b572a"
     },
     {
-      "id": "id-1570781147174",
+      "id": "id-1571000828090",
       "type": "Range",
       "label": {
         "en": [
           "Variatie A"
         ]
       },
-      "summary": {
-        "en": [
-          "een eerste variatie"
-        ]
-      },
       "items": [
         {
-          "id": "id-0",
+          "id": "id-1571001014520",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Vast stuk"
+            ]
+          },
+          "summary": {
+            "en": [
+              "Dit keert steeds weder!"
+            ]
+          },
+          "items": [
+            {
+              "id": "id-1571000659982",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Strofe"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "Dis de eerste strofe"
+                ]
+              },
+              "items": [
+                {
+                  "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=18.83501,51.459047",
+                  "type": "Canvas"
+                }
+              ],
+              "tl:backgroundColour": "#4a90e2"
+            },
+            {
+              "id": "id-1571000692467",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Refrein"
+                ]
+              },
+              "items": [
+                {
+                  "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=51.459047,74.052062",
+                  "type": "Canvas"
+                }
+              ],
+              "tl:backgroundColour": "#A63993"
+            }
+          ],
+          "tl:backgroundColour": "#d0021b"
+        },
+        {
+          "id": "id-1571000608574",
           "type": "Range",
           "label": {
             "en": [
@@ -92,70 +141,44 @@
           },
           "summary": {
             "en": [
-              "Muzikale intro"
+              "muzikale introductie!"
             ]
           },
           "items": [
             {
-              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=0,20.945623",
+              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=7.449614,18.83501",
               "type": "Canvas"
             }
           ],
           "tl:backgroundColour": "#7ed321"
-        },
-        {
-          "id": "id-1570780639052",
-          "type": "Range",
-          "label": {
-            "en": [
-              "Refrein"
-            ]
-          },
-          "summary": {
-            "en": [
-              "Dit is het refrein"
-            ]
-          },
-          "items": [
-            {
-              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=36.536281,56.48636535433071",
-              "type": "Canvas"
-            }
-          ],
-          "tl:backgroundColour": "#A63993"
-        },
-        {
-          "id": "id-1570780600182",
-          "type": "Range",
-          "label": {
-            "en": [
-              "Strofe"
-            ]
-          },
-          "summary": {
-            "en": [
-              "Dit is de eerste strofe"
-            ]
-          },
-          "items": [
-            {
-              "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=20.945623,36.536281",
-              "type": "Canvas"
-            }
-          ],
-          "tl:backgroundColour": "#4a90e2"
         }
       ],
-      "tl:backgroundColour": "#9b9bff"
+      "tl:backgroundColour": "#417AB0"
+    },
+    {
+      "id": "http://digirati.com/iiif/v3/temporary/range/r0",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Start"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=0,7.449614",
+          "type": "Canvas"
+        }
+      ],
+      "tl:backgroundColour": "#8b572a"
     }
   ],
   "tl:settings": {
     "tl:backgroundColour": "#fff",
-    "tl:bubblesStyle": "rounded",
+    "tl:bubblesStyle": "square",
     "tl:blackAndWhite": false,
     "tl:showTimes": false,
     "tl:autoScaleHeightOnResize": false,
-    "tl:startPlayingWhenBubbleIsClicked": false,
+    "tl:startPlayingWhenBubbleIsClicked": true,
     "tl:stopPlayingAtTheEndOfSection": false,
     "tl:bubbleHeight": 55
   }
