@@ -40,9 +40,9 @@
                 ]
               },
               "body": {
-                "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song.mp3",
+                "id": "https://nvanderperren.github.io/IIIF-examples/AV/sounds/song2.mp3",
                 "type": "Audio",
-                "duration": 245.67741
+                "duration": 241.67741
               },
               "target": "http://digirati.com/iiif/v3/temporary/canvas/c"
             }
@@ -62,7 +62,7 @@
       },
       "items": [
         {
-          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=56.48636535433071,245.677",
+          "id": "http://digirati.com/iiif/v3/temporary/canvas/c1#t=56.48636535433071,241.677",
           "type": "Canvas"
         }
       ],
