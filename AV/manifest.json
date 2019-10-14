@@ -142,7 +142,7 @@
                   "type": "Annotation",
                   "motivation": "Painting",
                   "body": {
-                    "value": "<h3>Let the music start!</h3>",
+                    "value": "<h3>Music, maestro!</h3>",
                     "type": "TextualBody",
                     "format": "text/plain"
                   },
